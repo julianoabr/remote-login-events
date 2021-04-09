@@ -169,7 +169,7 @@ else{
     
 }
 
-#GET HYPER-V SERVERS 
+#GET HYPER-V SERVERS OR OTHER SERVERS - CHANGE THE QUERY ACCORDING TO YOUR ENVIRONMENT
 $hostHyperVList = @()
 
 $hostHyperVList = Get-ADComputer -Filter {dnshostname -like "*prefix-server-name*"} | Select-Object -ExpandProperty Name | Sort-Object
