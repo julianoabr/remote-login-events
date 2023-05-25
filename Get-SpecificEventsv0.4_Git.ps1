@@ -25,7 +25,7 @@
   1. Bergman, In Six Days, 15-21
 
 .AUTHOR
-  Juliano Alves de Brito Ribeiro (jaribeiro@uoldiveo.com or julianoalvesbr@live.com or https://github.com/julianoabr)
+  Juliano Alves de Brito Ribeiro (julianoalvesbr@live.com or https://github.com/julianoabr)
 .VERSION
   0.4
 .ENVIRONMENT
